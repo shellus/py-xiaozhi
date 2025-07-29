@@ -181,6 +181,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
+### 使用虚拟环境安装和启动
+参阅：[虚拟环境（venv）使用说明](./虚拟环境使用说明.md)
+
 ### 核心开发模式
 - **异步优先**: 使用`async/await`语法，避免阻塞操作
 - **错误处理**: 完整的异常处理和日志记录

@@ -1,6 +1,6 @@
 comtypes==1.4.6
 cryptography==44.0.1
-numpy==1.26.4
+numpy>=1.26.4
 openai==1.86.0
 opuslib==3.0.1
 paho-mqtt==2.1.0
